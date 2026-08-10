@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá! Eu sou Pedro Henrique 👋
 
-<!--
-**dxress/dxress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+💻 Buscando minha primeira oportunidade de estágio em TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+- Python
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento de Software
+- Banco de Dados
+- Cloud Computing
+- Redes
+- Cybersecurity
+
+## 🚀 Objetivo
+
+Busco desenvolver minhas habilidades em tecnologia, adquirir experiência profissional e contribuir em projetos reais.
+
+## 🔗 Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-558078358/)
