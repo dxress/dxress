@@ -1,31 +1,28 @@
-# Olá! Eu sou Pedro Henrique 👋
+# Hi, I'm Pedro Henrique 👋
 
-🎓 Estudante de Engenharia de Software
+💻 Software Engineering Student
 
-💻 Buscando minha primeira oportunidade de estágio em TI.
+🚀 Currently looking for my first internship opportunity in Technology.
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
-- Python
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,github" />
+</p>
 
-## 📚 Atualmente estudando
+## 📚 Currently Learning
 
-- Desenvolvimento de Software
-- Banco de Dados
+- Software Development
+- Databases
 - Cloud Computing
-- Redes
+- Computer Networks
 - Cybersecurity
 
-## 🚀 Objetivo
+## 🎯 Goal
 
-Busco desenvolver minhas habilidades em tecnologia, adquirir experiência profissional e contribuir em projetos reais.
+I'm focused on developing my skills in technology, gaining professional experience, and contributing to real-world projects.
 
-## 🔗 Contato
+## 🔗 Contact
 
 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-558078358/)
+
